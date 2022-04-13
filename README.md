@@ -9,7 +9,7 @@
       
       📈 Data Analysis: 
                        
-                       Python: Numpy, Pandas, Seaborn, Matplotlib, Plotly, PV-Lib
+                       Python: Numpy, Pandas, Seaborn, Matplotlib, Plotly, PV-Lib, Scikit Learn
                        
                        Power BI: Desktop, DAX Measure
                        
