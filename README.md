@@ -4,11 +4,16 @@
 - 🧑‍🎓   I did my master's in energy systems engineering
 
 🧑‍💻 My skills: 
+      
       ☀️ Solar Energy: PVsyst | PV*SOL | PVWatts | PV-Lib | Plant Performance analysis | Loss estimate | Identify underperformance | Troubleshoot issues
+      
       📈 Data Analysis: 
+                       
                        Python: Numpy, Pandas, Seaborn, Matplotlib, Plotly, PV-Lib
+                       
                        Power BI: Desktop, DAX Measure
-                        Machine Learning: Scikit Learn
+                       
+                       Machine Learning: Scikit Learn
                      
 <!---
 vivekupadhyaya/vivekupadhyaya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
